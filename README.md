@@ -299,10 +299,11 @@ services.html
 
 ```
 ## OUTPUT:
-![alt text](<Screenshot 2024-11-13 103217.png>)
-![alt text](<Screenshot 2024-11-13 103237.png>)
-![alt text](<Screenshot 2024-11-13 103252.png>)
-![alt text](<Screenshot 2024-11-13 103319.png>)
+![Screenshot 2024-11-13 103217](https://github.com/user-attachments/assets/3603e52e-0fe7-4712-8c54-7f6da06a7555)
+![Screenshot 2024-11-13 103237](https://github.com/user-attachments/assets/3644d6e0-8a74-4ecf-aff2-ae40ba603b17)
+![Screenshot 2024-11-13 103252](https://github.com/user-attachments/assets/ad5b7be5-f7e6-4e69-94e6-7ca7d2f2ffbf)
+![Screenshot 2024-11-13 103319](https://github.com/user-attachments/assets/c7717d89-ec8a-4b18-9770-16f802c1cfde)
+
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
